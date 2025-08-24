@@ -1,2 +1,1 @@
-# emotion-detection-project
-A mini project for detecting emotions in student messages using Natural Language Processing (NLP) and LSTM-based neural networks. Introduction to Intelligent Systems course.
+Detect emotions in student text messages using neural networks. Classify messages into joy, sadness, anger, fear, and neutral to help universities identify students who may need emotional support. Built with Python, TensorFlow/Keras, and modern text preprocessing techniques.
